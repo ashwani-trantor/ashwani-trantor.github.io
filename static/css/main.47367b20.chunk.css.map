@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,cAAe,CACf,iBACF","file":"main.47367b20.chunk.css","sourcesContent":["ul > li {\n  display: inline;\n  margin-right: 10px;\n}\n"]}
